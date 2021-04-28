@@ -5,7 +5,7 @@
 <BODY>
 <?php
 
-// Nama : Muhammmad Derio
+// Nama : Feri Eriyanto
 // Kelas : 06TPLE012
 
 $program = array('Bobo','Doraemon','Spiderman');
