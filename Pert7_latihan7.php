@@ -5,8 +5,8 @@
 <BODY>
 <?php
 
-// Nama : Muhammad Derio
-// Kelas : 06TPLE012
+// Nama : Feri Eriyanto
+  // Kelas : 06TPLE012
 
 $tanggal = "17-05-2010";
 list($hari, $bulan, $tahun) = split("-", $tanggal);
